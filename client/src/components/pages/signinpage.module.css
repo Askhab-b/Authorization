@@ -1,0 +1,42 @@
+.signinLogin {
+  width: 300px;
+  font-size: 13px;
+  padding: 6px 0 4px 10px;
+  border: 1px solid #cecece;
+  background: #f6f6f6;
+  border-radius: 8px;
+  font-size: 20px;
+}
+
+.signinPassword {
+  width: 300px;
+  font-size: 13px;
+  padding: 6px 0 4px 10px;
+  border: 1px solid #cecece;
+  background: #f6f6f6;
+  border-radius: 8px;
+  font-size: 20px;
+}
+.SigninPage {
+  display: flex;
+  justify-content: center;
+  margin: 10%;
+}
+.btnSignin {
+background-color: blue;
+color: white;
+border-color: gray;
+font-size: 15px;
+}
+.authBtn {
+  background-color: rgb(173, 62, 62);
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  border-radius: 10px;
+  cursor: pointer;
+}
